@@ -2,10 +2,10 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=80&lines=Hey%2C+I'm+Mukul+👋;I+work+with+data.;I+build+with+Python.;I+think+in+SQL." alt="Typing SVG" />
-```
 
 *I find patterns. I build pipelines. I make data talk.*
 
+[![Profile Views](https://komarev.com/ghpvc/?username=phantom074&color=0e75b6&style=flat)](https://github.com/phantom074)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukuldhattarwal)
 
 </div>
