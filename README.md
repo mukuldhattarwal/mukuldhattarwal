@@ -72,6 +72,18 @@ mukul = {
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantom074&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom074&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🧠 How I Think About Data
 
 ```
