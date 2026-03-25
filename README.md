@@ -5,7 +5,7 @@
 
 *I find patterns. I build pipelines. I make data talk.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=phantom074&color=0e75b6&style=flat)](https://github.com/phantom074)
+[![Profile Views](https://komarev.com/ghpvc/?username=mukuldhattarwal074&color=0e75b6&style=flat)](https://github.com/mukuldhattarwal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukuldhattarwal)
 
 </div>
@@ -64,11 +64,11 @@ mukul = {
 
 | Project | What It Does | Stack |
 |---|---|---|
-| 🔄 [Customer Churn Prediction](https://github.com/phantom074/customer-churn-prediction) | Predicts & explains why customers leave | Python · SQL · XGBoost · Power BI · Streamlit |
-| 🛍️ [Customer Shopping Behaviour](https://github.com/phantom074/Customer-Shopping-Behaviour) | Retail consumer behaviour & purchase drivers | Python · SQL · Power BI |
-| 🎬 [Netflix Data Analysis](https://github.com/phantom074/Netflix-Data-Analysis) | Uncovers content trends & viewing patterns | Python · Pandas · Seaborn |
-| 🎓 [EduPredict](https://github.com/phantom074/EduPredict--Early-Academic-Forecasting) | Forecasts student academic performance | Python · ML · Regression |
-| ✈️ [Airbnb Data Analysis](https://github.com/phantom074/Airbnb-Data-Analysis) | Pricing trends & neighbourhood insights | Python · EDA · Plotly |
+| 🔄 [Customer Churn Prediction](https://github.com/mukuldhattarwal/customer-churn-prediction) | Predicts & explains why customers leave | Python · SQL · XGBoost · Power BI · Streamlit |
+| 🛍️ [Customer Shopping Behaviour](https://github.com/mukuldhattarwal/Customer-Shopping-Behaviour) | Retail consumer behaviour & purchase drivers | Python · SQL · Power BI |
+| 🎬 [Netflix Data Analysis](https://github.com/mukuldhattarwal/Netflix-Data-Analysis) | Uncovers content trends & viewing patterns | Python · Pandas · Seaborn |
+| 🎓 [EduPredict](https://github.com/mukuldhattarwal/EduPredict--Early-Academic-Forecasting) | Forecasts student academic performance | Python · ML · Regression |
+| ✈️ [Airbnb Data Analysis](https://github.com/mukuldhattarwal/Airbnb-Data-Analysis) | Pricing trends & neighbourhood insights | Python · EDA · Plotly |
 
 ---
 
